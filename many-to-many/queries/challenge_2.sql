@@ -1,5 +1,5 @@
 SELECT
-	series.id, /* or, series_id will work too. */
+	series.id,
     title,
     released_year,
     genre,
